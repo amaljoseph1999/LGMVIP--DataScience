@@ -14,3 +14,16 @@ Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/
 For problem statements and guidance
 
 Watch Tutorial from here https://youtu.be/CBCfOTePVPo : https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
+
+## Task 3
+### Music Recommendation:
+Music recommender systems can suggest songs to users based on their listening patterns.
+
+Datasetlinks :
+
+https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+
+## Task 4
+### Stock Market Prediction And Forecasting Using Stacked LSTM:
+
+Datasetlinks: : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
